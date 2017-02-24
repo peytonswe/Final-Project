@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GaylordTexan</string>
+    <string name="hotel_name">Gaylord Texan Resort &amp; Convention Center</string>
+    <string name="hotel_description">Polished quarters in a complex with gardens,
+        shopping &amp; dining, plus a spa, pools &amp; event space.</string>
+    <string name="address">1501 Gaylord Trail, Grapevine, TX 76051, USA</string>
+    <string name="phone_number">+1 817-778-1000</string>
+    <string name="web_site_name">marriott.com</string>
+    <string name="label">Gaylord Texan</string>
+
+</resources>

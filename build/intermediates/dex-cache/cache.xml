@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_6ebdbc69b2920e43028b85df3ef1aef8abc35a56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_edb0716613befc4a156c2ceb11b7bfc1e8a0f9a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_cb6b5196422b2c366cb85831366d49673fe71d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_cb6b5196422b2c366cb85831366d49673fe71d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_f690f3a0f4af27f236b711201546b926151f7191.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_6ebdbc69b2920e43028b85df3ef1aef8abc35a56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_88b607cbf4c9ae4e7af6d9d4978fcf268dcb4dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_4baf7296209560e51583b93c7b28d33f68b1226c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_9c43301684656dbfe2386ecc5753c2e8ba95772d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_88b607cbf4c9ae4e7af6d9d4978fcf268dcb4dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_6507225bb165980c51f9cc95fc2aa45a1351d3c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_f690f3a0f4af27f236b711201546b926151f7191.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_9c43301684656dbfe2386ecc5753c2e8ba95772d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_d63c191289a74c4a723b3e27d269194e5c5f17be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_4baf7296209560e51583b93c7b28d33f68b1226c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_edb0716613befc4a156c2ceb11b7bfc1e8a0f9a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_6507225bb165980c51f9cc95fc2aa45a1351d3c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_d63c191289a74c4a723b3e27d269194e5c5f17be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_55dd0aa22928e754dec7e8c9e4a9b710f410f15e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/ksusha/AndroidStudioProjects/GaylordTexan/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_55dd0aa22928e754dec7e8c9e4a9b710f410f15e.jar" />
+    </item>
+
+</items>
